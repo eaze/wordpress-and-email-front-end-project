@@ -27,8 +27,8 @@ There are no mockups for this one, so don’t worry about making it look great.
 
  Make sure it satisfies these requirements:
 
- 1. renders well on all major email apps/platforms
- 2. renders well for various screen sizes
+ 1. Renders well on all major email apps/platforms
+ 2. Renders well for various screen sizes
  3. Works without images off
 
 ## Setup
@@ -40,3 +40,15 @@ There are three directories in this repo:
 1. `theme/` - the wordpress theme you’ll be adding to
 3. `email/announcement.html` - put your email html here
 4. `email/images/` - any images you’ll need for this email
+
+## Coding at Eaze
+
+At [Eaze](https://www.eaze.com) we strive for writing simple, maintainable and clean code. 
+
+We prefer simplicity and over complexity.
+
+We comment our code and commit often.
+
+We love our users and we really care about providing a good user experience and pleasant UI.
+
+We encourage out of the box thinking and we love to be impressed!
